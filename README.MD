@@ -1,0 +1,1 @@
+docker build -t imagetester . && docker run -p 80:80 -t -i imagetester
