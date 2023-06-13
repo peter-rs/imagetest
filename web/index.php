@@ -17,7 +17,7 @@
     <p>These images were retrieved from the internet without user involvement. Please be advised that you may see content that is not safe for work.</p>
     <p>For each image, please answer whether you think it is safe for work or not safe for work. Your input helps us gather feedback on the efficacy of the Image Classification model being employed.</p>
     <button class='blue-button' id='Start' onclick='location.href="image_test.php";' style='width: 100%'>Start</button>
-    <p><a href="https://github.com/peter6C6F6C/imagetest"><u>Source Github</u></a>&nbsp;&nbsp;&nbsp;<-2023->&nbsp;&nbsp;&nbsp;<a href="https://peter.rs"><u>Homepage</u></a></p>
+    <p title="Credits"><a href="https://github.com/peter6C6F6C/imagetest"><u>Source Github</u></a>&nbsp;&nbsp;&nbsp;<-2023->&nbsp;&nbsp;&nbsp;<a href="https://peter.rs" title="Credits"><u>Homepage</u></a></p>
 </div>
 </body>
 </html>
