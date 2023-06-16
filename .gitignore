@@ -1,5 +1,5 @@
 # Server Config
-config.py
+python/config.py
 # Potentially sensitive credentials
 *.key
 # Byte-compiled / optimized / DLL files
