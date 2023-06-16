@@ -47,6 +47,7 @@ if ($_SESSION['failed_auth'] == true)
             }, success: function (data) {
                 location.href = "admin.php";
             }
+        })
     }</script>';
 }
 else {
